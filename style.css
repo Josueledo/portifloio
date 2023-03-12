@@ -304,12 +304,18 @@ a:visited{
         margin-top: .5em;
         color: rgb(204, 165, 133);
     }
+    header{
+        width: 360px;
+    }
+    .container{
+        width: 100%;
+    }
     .sobreContainer{
         width: 300px;
         font-size: 1em;
     }
     .container3 .card{
-        width: 390px;
+        width: 370px;
         height: 230px;
     }
     .container3  .card span{
