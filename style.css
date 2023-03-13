@@ -213,6 +213,16 @@ a:visited{
     z-index: 9;
     width: 395px;
     height: 200px;
+    background-image: url(./assets/A-Class-Saloon_V177_Stage_Overview_2730x1213.avif);
+    background-size: cover;
+    border-radius: 12px;
+    filter: grayscale(1);
+    transition: .3s ease;
+}
+.container3 .card .pic2{
+    z-index: 9;
+    width: 395px;
+    height: 200px;
     background-image: url(./assets/dorama.jpg);
     background-size: cover;
     border-radius: 12px;
