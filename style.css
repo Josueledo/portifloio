@@ -229,6 +229,16 @@ a:visited{
     filter: grayscale(1);
     transition: .3s ease;
 }
+.container3 .card .pic3{
+    z-index: 9;
+    width: 395px;
+    height: 200px;
+    background-image: url(./assets/hashtag.jpg);
+    background-size: cover;
+    border-radius: 12px;
+    filter: grayscale(1);
+    transition: .3s ease;
+}
 .container3 .card button{
     position: absolute;
     right: 30px;
